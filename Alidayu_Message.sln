@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{D0C3297A-992C-4DD9-9FB8-D4B827CB83CA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A3AAF19D-CE99-4CD9-9336-B8C1A49A8D80}"
+	ProjectSection(SolutionItems) = preProject
+		global.json = global.json
+	EndProjectSection
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Alidayu_Message", "src\Alidayu_Message\Alidayu_Message.xproj", "{EE87E568-F204-4FD8-8201-A488FD2B6BF8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE87E568-F204-4FD8-8201-A488FD2B6BF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE87E568-F204-4FD8-8201-A488FD2B6BF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE87E568-F204-4FD8-8201-A488FD2B6BF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE87E568-F204-4FD8-8201-A488FD2B6BF8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{EE87E568-F204-4FD8-8201-A488FD2B6BF8} = {D0C3297A-992C-4DD9-9FB8-D4B827CB83CA}
+	EndGlobalSection
+EndGlobal
